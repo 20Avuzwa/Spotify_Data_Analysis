@@ -9,6 +9,7 @@ The project includes exploratory data analysis (EDA), advanced SQL queries, and 
 ## Dataset
 
 The dataset contains **169,909 songs** with the following attributes:
+Download it here: https://drive.usercontent.google.com/download?id=1lADPn9O7N5uxpqs_th0hetvLkF_BkOo-&export=download&authuser=0&confirm=t&uuid=0980e92b-7c82-4796-b28f-0a1916026300&at=AN_67v09TYYGJ2BVz51GRPGlSN06:1728227684840
 
 - **id**: Unique identifier for each song
 - **name**: The title of the song
